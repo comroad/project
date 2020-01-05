@@ -1,0 +1,67 @@
+.header-top {
+    background-color: #484b52;
+    height: 40px;
+}
+
+.header-menu {
+    background-color: #282828;
+    height: 50px;
+}
+
+footer {
+    width: 100%;
+    background-color: #282828;
+    color: #eeeeee;
+}
+
+.about {
+    padding: 30px 0;
+}
+
+.comroad {
+    padding: 10px 0;
+}
+
+/*.header-top {*/
+/*background-color: #23a9a7*/
+/*}*/
+
+/*.searchBar {*/
+/*!*background-color: .484b52;*!*/
+/*!*background-color: yellow;*!*/
+/*height: 50px;*/
+/*}*/
+
+/*.menuBar {*/
+/*!*background-color: #e38d13;*!*/
+/*height: 50px;*/
+/*}*/
+
+/*.edu {*/
+/*background-color: yellow;*/
+/*height: 300px;*/
+/*margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.service {*/
+/*background-color: #2aabd2;*/
+/*height: 300px;*/
+/*margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.professor {*/
+/*background-color: #985f0d;*/
+/*height: 200px;*/
+/*margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.about {*/
+/*!*background-color: #2e2e2e;*!*/
+/*height: 200px;*/
+/*}*/
+
+/*.comroad {*/
+/*!*background-color: #3e3e3e;*!*/
+/*height: 50px;*/
+/*}*/
+
