@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ef6c0c8-1001-4aa8-871f-869e867c0e3b" name="Default" comment="14:38 1/5/2020">
+    <list default="true" id="9ef6c0c8-1001-4aa8-871f-869e867c0e3b" name="Default" comment="14:56 1/5/2020">
       <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -59,8 +59,8 @@
       <file leaf-file-name="Main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+            <state relative-caret-position="200">
+              <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -303,7 +303,7 @@
       <workItem from="1564835317862" duration="3495000" />
       <workItem from="1564898978658" duration="2015000" />
       <workItem from="1564921565811" duration="1306000" />
-      <workItem from="1578222342593" duration="1221000" />
+      <workItem from="1578222342593" duration="1272000" />
     </task>
     <task id="LOCAL-00001" summary="14:38 1/5/2020">
       <created>1578222592896</created>
@@ -312,11 +312,18 @@
       <option name="project" value="LOCAL" />
       <updated>1578222592896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14:56 1/5/2020">
+      <created>1578223618488</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578223618488</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40647000" />
+    <option name="totallyTimeSpent" value="40698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -361,7 +368,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="14:38 1/5/2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="14:38 1/5/2020" />
+    <MESSAGE value="14:56 1/5/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="14:56 1/5/2020" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -635,8 +643,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        <state relative-caret-position="200">
+          <caret line="10" column="64" lean-forward="true" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
           <folding />
         </state>
       </provider>
